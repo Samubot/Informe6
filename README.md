@@ -55,9 +55,13 @@ El uso de los simuladores virtuales para la comprensión de los temas en eléctr
 
 No se cumple el teorema ya que ninguna resistencia RL tenia el valor igual a la resistencia de la fuente
 
-5.5 ¿Cuál fue la potencia máxima en RL? 0.046 Watts
+5.5 ¿Cuál fue la potencia máxima en RL? 
 
-5.6 ¿Para qué valor de RL se obtiene la MTP? 1000 Ω
+La potencia maxima fue 0.046 Watts
+
+5.6 ¿Para qué valor de RL se obtiene la MTP? 
+
+Para 1000 Ω
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
@@ -66,6 +70,8 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 7. CONCLUSIONES
 
 Se pudo comprobar que los valores obtenidos de los voltajes como de las corrientes fueron muy semejantes a los obtenidos mediante verificar el circuito analiticamente, con unos pequeños margenes de error. Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de superposición, mediante las ecuaciones encontradas, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar la ley antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de los voltajes y corrientes.
+
+El teorema de la máxima transferencia de potencia se deriva del teorema de Thevenin y el de Norton con algunos pasos extras de cáculo elemental. Llegamos a la demostración teórica, evidentemente la máxima potencia se originará cuando la resistencia de carga tenga un valor semejante a la resistencia de Thevenin o Norton.
 
 8. BIBLIOGRAFÍA
 
