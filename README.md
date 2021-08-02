@@ -41,9 +41,15 @@ El uso de los simuladores virtuales para la comprensión de los temas en eléctr
 
 5.1 Arme el circuito que se presenta en la figura 6.1.
 
+![](Img/circuito1.jpg)
+
+![](Img/circuito2.jpg)
+
 5.2 Mida el voltaje y la corriente para cada valor de RL que se indica en la tabla 6.1. Anote los resultados medidos.
 
 5.3 Calcule las potencia consumida por RL, para cada valor dado y anote los resultados en la tabla 6.1.
+
+![](Img/circuito3.jpg)
 
 5.4 ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
