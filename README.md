@@ -37,6 +37,8 @@ El uso de los simuladores virtuales para la comprensión de los temas en eléctr
 - Retroalimentación rápida gracias a la rapidez de los resultados, por esto se puede corregir o confirmar las acciones realizadas.
 - Mejores para el aprendizaje individual, ya que él estudiante tendrá que manejar el simulador, observar los resultados y actuar en consecuencia.
 
+![](Img/marcoteorico.jpg)
+
 4. MATERIAL Y EQUIPO REQUERIDO
 
 | Cantidad | Material o Equipo | 
