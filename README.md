@@ -37,6 +37,21 @@ El uso de los simuladores virtuales para la comprensión de los temas en eléctr
 
 4. MATERIAL Y EQUIPO REQUERIDO
 
+| Cantidad | Material o Equipo | 
+| --------- | --------- | 
+| 1 | Fuente de Voltaje de C.D. | 
+| 1 | Multímetros Digitales | 
+| 1 | Resistor de 220 Ω |
+| 1 | Resistor de 470 Ω | 
+| 1 | Resistor de 680 Ω | 
+| 1 | Resistor de 820 Ω |
+| 1 | Resistor de 1 kΩ  |
+| 1 | Resistor de 1.5 kΩ|
+| 1 | Resistor de 1.8 kΩ |
+| 1 | Resistor de 2.2 kΩ |
+| 1 | Resistor de 3.9 kΩ |
+| 1 | Resistor de 4.7 kΩ |
+| 1 | Protoboard | 
 5. PROCEDIMIENTO
 
 5.1 Arme el circuito que se presenta en la figura 6.1.
