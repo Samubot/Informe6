@@ -65,6 +65,8 @@ Para 1000 Ω
 
 Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
+![](Img/circuito4.jpg)
+
 6. VIDEO
 
 7. CONCLUSIONES
