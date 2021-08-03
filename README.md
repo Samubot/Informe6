@@ -100,6 +100,9 @@ Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 6. VIDEO
 
+https://youtu.be/fzoUwA6ap1k
+
+
 7. CONCLUSIONES
 
 Se pudo comprobar que los valores obtenidos de los voltajes como de las corrientes fueron muy semejantes a los obtenidos mediante verificar el circuito analiticamente, con unos pequeños margenes de error. Asi mismo tanto para las tablas obtenidas, se comprobó el uso del teorema de superposición, mediante las ecuaciones encontradas, los cálculos obtenidos nos asemejan a una silmulación real, todo este proceso de usar la ley antes mencionadas nos permiten a que los valores sean precisos y casi exactos, apoyandonos del mismo ciruito para usar las fórmulas como la dirección de los voltajes y corrientes.
